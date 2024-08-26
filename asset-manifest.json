@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/karthikkm97/hotel-booking-react/static/css/main.ee8f7a12.css",
+    "main.js": "/karthikkm97/hotel-booking-react/static/js/main.afa7c21a.js",
+    "index.html": "/karthikkm97/hotel-booking-react/index.html",
+    "main.ee8f7a12.css.map": "/karthikkm97/hotel-booking-react/static/css/main.ee8f7a12.css.map",
+    "main.afa7c21a.js.map": "/karthikkm97/hotel-booking-react/static/js/main.afa7c21a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee8f7a12.css",
+    "static/js/main.afa7c21a.js"
+  ]
+}
